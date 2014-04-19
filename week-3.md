@@ -1,4 +1,4 @@
-# Week 2 sponsor meeting report
+﻿# Week 3 sponsor meeting report
 
 Team: The Showmen
 
@@ -21,7 +21,7 @@ ICS 193, Irvine, CA, Thurs Apr 15, 10 AM
 
 ## Business case changes
 
-+ In the business case, we decided to explicitly state that we were going to be developing a MOOC alone instead of addressing multiple issues of the website (i.e. the community section). We addressed the issue of the “Learning Paths” that the client desires and broadly broke them down into subjects and courses to explore them further.
++ In the business case, we decided to explicitly state that we were going to be developing a MOOC alone instead of addressing multiple issues of the website (i.e. the community section). We addressed the issue of the “Learning Paths” that the client desires and broadly broke them down into subjects and courses to explore them further. In addition, we added another target audience demographic.
 
 ## Requirements document changes
 
